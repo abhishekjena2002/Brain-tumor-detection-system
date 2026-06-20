@@ -140,5 +140,20 @@ Brain-Tumor-Detection/
 ## Author
 
 Abhishek Jena
+mlops
+mlflow
+docker
+clickhouse
+apachi airflow
+postgreshSQL
+SQL
+PowerBI
+Visualization
+promtheus
+Grafana
+DVC
+Git
+GitHub
+
 
 Data Science | Machine Learning | Deep Learning | MLOps
