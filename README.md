@@ -149,6 +149,4 @@ postgreshSQL
 SQL
 PowerBI
 Visualization
-promtheus
-Grafan
 Data Science | Machine Learning | Deep Learning | MLOps
