@@ -145,7 +145,5 @@ mlflow
 docker
 clickhouse
 apachi airflow
-postgreshSQL
-SQL
-Powe
+postgreshSQ
 Data Science | Machine Learning | Deep Learning | MLOps
