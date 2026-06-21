@@ -150,10 +150,5 @@ SQL
 PowerBI
 Visualization
 promtheus
-Grafana
-DVC
-Git
-GitHub
-
-
+Grafan
 Data Science | Machine Learning | Deep Learning | MLOps
