@@ -143,6 +143,4 @@ Abhishek Jena
 mlops
 mlflow
 docker
-clickhouse
-a
 Data Science | Machine Learning | Deep Learning | MLOps
