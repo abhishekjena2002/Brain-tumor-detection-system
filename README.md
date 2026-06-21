@@ -140,6 +140,4 @@ Brain-Tumor-Detection/
 ## Author
 
 Abhishek Jena
-mlops
-ml
 Data Science | Machine Learning | Deep Learning | MLOps
