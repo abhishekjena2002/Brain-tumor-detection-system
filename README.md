@@ -141,6 +141,5 @@ Brain-Tumor-Detection/
 
 Abhishek Jena
 mlops
-mlflow
-docker
+ml
 Data Science | Machine Learning | Deep Learning | MLOps
