@@ -147,6 +147,5 @@ clickhouse
 apachi airflow
 postgreshSQL
 SQL
-PowerBI
-Visualization
+Powe
 Data Science | Machine Learning | Deep Learning | MLOps
