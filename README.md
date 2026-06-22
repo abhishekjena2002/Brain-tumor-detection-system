@@ -140,4 +140,4 @@ Brain-Tumor-Detection/
 ## Author
 
 Abhishek Jena
-Data Science | Machine Learning | Deep Learning 
+
